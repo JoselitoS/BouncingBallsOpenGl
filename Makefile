@@ -1,4 +1,4 @@
-CC=gcc
+CC=g++
 CFLAGS=-c -Wall
 LDFLAGS=
 SOURCES=main.cc
