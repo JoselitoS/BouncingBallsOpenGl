@@ -7,7 +7,7 @@ compiler:
 
 before_script:
 # Create a build folder for the out-of-source build
-  - mkdir
+  - mkdir build
 # switch to build directory
   - cd build
 # run cmake; here we assume that the project's
