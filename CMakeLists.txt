@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 2.6)
-project (Tutorial)
+project (BouncingBalls)
 
 # add the executable 	
-add_executable(BouncingBalls main.cc)
+add_executable(BouncingBalls BouncingBallsMain.cc)
 
